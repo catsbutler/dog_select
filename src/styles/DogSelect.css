@@ -1,0 +1,21 @@
+.input_breed{
+    display: block;
+    margin: 0 auto;
+    font-size: 18px;
+    width: 160px; height: 40px;
+    border: 1px solid #aeaeae;
+    border-radius: 5px;
+  }
+  
+  .breeds{
+    list-style-type: none;
+    margin: 0; padding: 0;
+  }
+  
+  .breeds_breed{
+    display: inline-block;
+    background: rgb(2, 103, 185); color: white;
+    font-size: 20px;
+    margin: 5px; padding: 5px;
+    cursor: pointer;
+  }

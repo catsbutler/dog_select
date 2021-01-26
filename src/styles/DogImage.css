@@ -1,0 +1,32 @@
+.album{
+    text-align: center;
+  }
+  
+  .album__api > p{
+    font-size: 24px;
+  }
+  
+  .album__api > p > .album__api__breed{
+    font-size: 24px;
+    width: 200px; height: 40px;
+  }
+  
+  .album__api > p > button{
+    color: white; background-color: cornflowerblue;
+    border: none;
+    border-radius: 5px;
+    margin: 0 0 0 10px;
+    font-size: 24px;
+    width: 120px; height: 40px;
+  }
+  
+  .album__image{
+    margin: 0 auto;
+    width: 400px;
+    height: 300px;
+  }
+  
+  .album_image > img {
+    width: 400px;
+    height: 300px;
+  }
